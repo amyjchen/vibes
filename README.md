@@ -8,9 +8,13 @@ The minutes are expressed with four vibrations, three of short and one long. The
 So if the time is 3:45, it's signaled as follows: short, short, short, long, pause. one, two, three. 
 
 THE MINUTES ARE AS FOLLOWS: 
+
 XX:00  long, short, short, short. 
+
 XX:15  short, long, short, short. 
+
 XX:30  short, short, long, short. 
+
 XX:45  short, short, short, long. 
 
 The hours are based on a 12-hour clock. 
