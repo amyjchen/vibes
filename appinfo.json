@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Amy Chen",
+    "enableMultiJS": false,
+    "longName": "VIBES",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "VIBES",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "1de967f3-5507-4ea1-85cf-2712dcf6e4be",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
